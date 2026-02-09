@@ -7,7 +7,7 @@ A lightweight ticket management system that integrates with [Claude Code](https:
 ### 1. Clone into your Claude config directory
 
 ```bash
-git clone https://github.com/julianss/claude-tickets ~/.claude/tickets
+git clone https://github.com/julianss/tickets ~/.claude/tickets
 ```
 
 ### 2. Create a virtual environment and install dependencies
