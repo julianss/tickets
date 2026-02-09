@@ -116,6 +116,10 @@ tickets delete 1 --yes             # Skip confirmation
 
 ### Terminal UI
 
+
+<img width="930" height="501" alt="Captura de pantalla 2026-02-09 123621" src="https://github.com/user-attachments/assets/54517853-6ca3-4b5c-a098-e4a56db53d8f" />
+
+
 Launch the interactive TUI:
 
 ```bash
